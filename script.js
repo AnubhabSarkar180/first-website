@@ -1,0 +1,1 @@
+alert("Chigga logged in successfully")
